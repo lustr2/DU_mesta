@@ -1,5 +1,5 @@
 import './App.css';
-import City from './components/city';
+import City from './pages';
 import { cities } from './cz-cities';
 import './global.css';
 import { Grid } from '@mui/material';

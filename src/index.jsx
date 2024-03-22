@@ -1,5 +1,5 @@
 import { createRoot } from 'react-dom/client';
-import City from './components/city/city';
+import City from './pages/city/city';
 import { cities } from './cz-cities';
 import './global.css';
 
