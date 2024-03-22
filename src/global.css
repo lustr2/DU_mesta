@@ -57,7 +57,11 @@ article {
   width: 20rem;
   background-color: #f1f5f9;
   border-radius: 1rem;
+  border-color: black;
+  border: 10px;
   overflow: hidden;
+  padding: 0.5rem;
+
 }
 article > .content {
   display: flex;
